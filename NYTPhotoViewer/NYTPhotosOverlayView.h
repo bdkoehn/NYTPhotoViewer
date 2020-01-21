@@ -55,11 +55,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property (nonatomic, nullable) UIView *captionView;
 
-/**
- *  Whether the `captionView` should respect the safe area or not
- */
-@property (nonatomic) BOOL captionViewRespectsSafeArea;
-
 @end
 
 NS_ASSUME_NONNULL_END
